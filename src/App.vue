@@ -67,10 +67,7 @@ export default {
         .then(response => response.json())
     },
 
-   /* getPosts() {
-      return fetch(`${API_URL}/posts?per_page=20`)
-        .then(response => response.json())
-    },*/
+
  getPosts() {
      /* return fetch(` http://localhost:3000/api/products`)
         .then(response => response.json() )
