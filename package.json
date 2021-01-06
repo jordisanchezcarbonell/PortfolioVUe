@@ -10,7 +10,7 @@
     "deploy": "scp -r dist/* freaks:/var/www/lena.portfolio/wp-content/themes/MyTheme/"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.1.1",
     "jquery": "^3.5.1",
     "vue": "^2.5.16",
